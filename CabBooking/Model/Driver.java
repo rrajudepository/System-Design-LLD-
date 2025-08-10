@@ -12,7 +12,13 @@ public class Driver {
         this.vehicleNumber = vehicleNumber;
     }
 
-    public String getId() { return id; }
-    public String getName() { return name; }
-    public String getVehicleNumber() { return vehicleNumber; }
+    public String getId() { 
+        return id; 
+    }
+    public String getName() { 
+        return name; 
+    }
+    public String getVehicleNumber() { 
+        return vehicleNumber; 
+    }
 }
