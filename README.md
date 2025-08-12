@@ -12,6 +12,7 @@ A collection of **end-to-end machine coding implementations** for SDE interview 
 | [Cab Booking Application](./CabBookingApplication) | Simulates an online cab booking system with driver matching, ride allocation, and pricing. |
 | [Elevator Design](./ElevatorDesign) | Models an elevator control system handling requests, directions, and priority scheduling. |
 | [Car Rental System](./CarRentalSystem) | Implements a vehicle rental platform with booking, return, and availability management. |
+| [TicTacToe Game](./TicTacToeApplication) | Implements a tictactow game of n*n board with two users |
 
 ---
 
@@ -30,4 +31,4 @@ This repository is part of my **SDE interview preparation**, focusing on:
 - Writing clean, extensible, and maintainable code.
 
    ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
+   git clone https://github.com/rrajudepository/Machine-Coding.git
