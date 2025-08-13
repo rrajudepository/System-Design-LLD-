@@ -11,9 +11,8 @@ A collection of **end-to-end machine coding implementations** for SDE interview 
 |---------------------|-------------|
 | [Cab Booking Application](./CabBookingApplication) | Simulates an online cab booking system with driver matching, ride allocation, and pricing. |
 | [Elevator Design](./ElevatorDesign) | Models an elevator control system handling requests, directions, and priority scheduling. |
-| [Car Rental System](./CarRentalSystem) | Implements a vehicle rental platform with booking, return, and availability management. |
 | [TicTacToe Game](./TicTacToeApplication) | Implements a tictactow game of n*n board with two users |
-| [CarRentalManagementApplication](./CarRentalManagementApplication) | Implements a Car rental application which allows users to search for available vehicles based on location and type, make reservations, generate bills, and process payments — all while following Low-Level Design (LLD) and SOLID principles |
+| [CarRentalManagementApplication](./CarRentalManagementApplication) | Implements a Car rental application which allows users to search for available vehicles based on location and type, make reservations, generate bills, and process payments — all while following Low-Level Design (LLD) and SOLID principles|
 
 ---
 
