@@ -13,6 +13,7 @@ A collection of **end-to-end machine coding implementations** for SDE interview 
 | [Elevator Design](./ElevatorDesign) | Models an elevator control system handling requests, directions, and priority scheduling. |
 | [Car Rental System](./CarRentalSystem) | Implements a vehicle rental platform with booking, return, and availability management. |
 | [TicTacToe Game](./TicTacToeApplication) | Implements a tictactow game of n*n board with two users |
+| [CarRentalManagementApplication](./CarRentalManagementApplication) | Implements a Car rental application which allows users to search for available vehicles based on location and type, make reservations, generate bills, and process payments — all while following Low-Level Design (LLD) and SOLID principles |
 
 ---
 
