@@ -1,34 +1,85 @@
-# Machine-Coding
-"End-to-end machine coding projects implementing real-world system designs for SDE interview prep."
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-Java-orange.svg" alt="Language">
+  <img src="https://img.shields.io/badge/Topic-Low%20Level%20Design%20%7C%20Machine%20Coding-blue.svg" alt="Topic">
+  <img src="https://img.shields.io/badge/Level-Intermediate%20to%20Advanced-red.svg" alt="Level">
+  <img src="https://img.shields.io/badge/Type-Interview%20Prep%20%7C%20System%20Design-green.svg" alt="Type">
+  <img src="https://img.shields.io/github/stars/rrajudepository/Machine-Coding.svg?style=social" alt="Stars">
+</p>
 
-# Machine Coding Projects
+<h1 align="center">🧠 Low Level Design (LLD) & Machine Coding – Java Repository 🚀</h1>
 
-A collection of **end-to-end machine coding implementations** for SDE interview preparation, covering real-world system design problems with clean, modular, and object-oriented code.
-
-## 📂 Projects Included such as
-
-| Project Name        | Description |
-|---------------------|-------------|
-| [Cab Booking Application](./CabBookingApplication) | Simulates an online cab booking system with driver matching, ride allocation, and pricing. |
-| [Elevator Design](./ElevatorDesign) | Models an elevator control system handling requests, directions, and priority scheduling. |
-| [TicTacToe Game](./TicTacToeApplication) | Implements a tictactow game of n*n board with two users |
-| [CarRentalManagementApplication](./CarRentalManagementApplication) | Implements a Car rental application which allows users to search for available vehicles based on location and type, make reservations, generate bills, and process payments — all while following Low-Level Design (LLD) and SOLID principles|
-
----
-
-## 🛠 Tech Stack
-- **Language:** Java (Object-Oriented Programming)
-- **Paradigm:** Low-Level Design (LLD), SOLID principles
-- **Version Control:** Git & GitHub
-- **Build Tool:** Maven/Gradle *(if applicable)*
+<p align="center">
+  A curated collection of **LLD / Machine Coding problems** implemented in **Java**, covering real-world system design scenarios frequently asked in interviews.  
+  This repository is structured to help you **understand object-oriented design**, build working solutions, and practice **clean architecture** principles.
+</p>
 
 ---
 
-## 🎯 Purpose
-This repository is part of my **SDE interview preparation**, focusing on:
-- Practicing **machine coding rounds**.
-- Strengthening **Low-Level Design** skills.
-- Writing clean, extensible, and maintainable code.
+## 📌 Overview
 
-   ```bash
-   git clone https://github.com/rrajudepository/Machine-Coding.git
+This repository contains **end-to-end implementations** of popular machine coding questions.  
+Each folder represents a **separate LLD problem**, implemented using clean code, proper object-oriented principles, and separation of concerns.
+
+Key highlights:
+- ✅ Realistic problem statements  
+- 🧠 Modular, extensible designs  
+- 💻 Fully working Java implementations  
+- 📂 One folder per problem for easy navigation
+
+---
+## 🧠 Topics Covered
+
+- 🎬 **BookMyShow LLD** – Movie booking system with user, seat, and payment modules  
+- 🚖 **Cab Booking System** – Rider–Driver matching, ride allocation logic  
+- 🧾 **Car Rental Application** – Vehicle inventory, reservation, and payment  
+- 📦 **Delivery Management System** – Order dispatch and delivery simulation  
+- 🏢 **Elevator Design (LLD)** – Multiple elevators, direction handling, scheduling  
+- 🔐 **Locker Management System** – Parcel locker assignment and OTP verification  
+- 🅿️ **Parking Lot System** – Multi-level parking, vehicle type handling, ticketing  
+- 🚗 **Ride Sharing Application** – Matching algorithms & system structure  
+- 🛍 **Shopping Cart Application** – Add/remove items, pricing, checkout flow  
+- 🐍 **Snake & Ladder Game** – Core logic and extensible design  
+- ❌ **Tic Tac Toe Game** – Clean turn-based design and validations
+
+> Each problem demonstrates **Class Design**, **Interfaces / Abstract Classes**, **OOP Principles**, and **Real-World Architecture**.
+## 🧠 Topics Covered
+
+- 🎬 **BookMyShow LLD** – Movie booking system with user, seat, and payment modules  
+- 🚖 **Cab Booking System** – Rider–Driver matching, ride allocation logic  
+- 🧾 **Car Rental Application** – Vehicle inventory, reservation, and payment  
+- 📦 **Delivery Management System** – Order dispatch and delivery simulation  
+- 🏢 **Elevator Design (LLD)** – Multiple elevators, direction handling, scheduling  
+- 🔐 **Locker Management System** – Parcel locker assignment and OTP verification  
+- 🅿️ **Parking Lot System** – Multi-level parking, vehicle type handling, ticketing  
+- 🚗 **Ride Sharing Application** – Matching algorithms & system structure  
+- 🛍 **Shopping Cart Application** – Add/remove items, pricing, checkout flow  
+- 🐍 **Snake & Ladder Game** – Core logic and extensible design  
+- ❌ **Tic Tac Toe Game** – Clean turn-based design and validations
+
+> Each problem demonstrates **Class Design**, **Interfaces / Abstract Classes**, **OOP Principles**, and **Real-World Architecture**.
+## 👥 Who This Is For
+
+- 🧠 **Students** preparing for **LLD / Machine Coding interview rounds**  
+- 💼 **Software engineers** aiming to sharpen their **system design skills**  
+- 📝 **Developers** learning **OOP principles** & **clean architecture** in Java  
+- 🚀 Anyone wanting to build **scalable, object-oriented applications** from scratch
+
+
+
+## 🧭 Folder Structure
+
+```plaintext
+Machine-Coding/
+├── BookMyShows/
+├── CabBooking/
+├── CabBookingMC/
+├── CarRentalApplication/
+├── DeliveryManagementSystem/
+├── LLDElevatorDesign/
+├── LockerManagementSystem/
+├── ParkingLotSystem/
+├── RideSharingApplication/
+├── ShoppingCart/
+├── SnakeLadderGame/
+├── TicTacToe/
+└── README.md
