@@ -69,6 +69,65 @@ Key highlights:
 A structured collection of Design Pattern notes and implementations written in Java, focusing on real-world applications and interview-level clarity.
 This section is designed to help you understand, visualize, and apply design patterns effectively in your Low-Level Design (LLD) and System Design journey.
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-Java-orange.svg" alt="Language">
+  <img src="https://img.shields.io/badge/Topic-Design%20Patterns-blue.svg" alt="Topic">
+  <img src="https://img.shields.io/badge/Level-Intermediate%20to%20Advanced-red.svg" alt="Level">
+  <img src="https://img.shields.io/badge/Type-Interview%20Prep%20%7C%20System%20Design-green.svg" alt="Type">
+  <img src="https://img.shields.io/github/stars/rrajudepository/System-Design-LLD-.svg?style=social" alt="Stars">
+</p>
+
+<h1 align="center">🎨 Design Patterns – Java Notes & Code 🧩</h1>
+
+<p align="center">
+  A structured collection of <b>Design Pattern notes and implementations</b> written in <b>Java</b>, focusing on real-world applications and interview-level clarity.<br>
+  This section helps you <b>understand, visualize, and apply</b> design patterns effectively in your <b>Low-Level Design (LLD)</b> and <b>System Design</b> journey.
+</p>
+
+---
+
+## 🧠 Overview
+
+This section contains <b>comprehensive notes and code implementations</b> of all major design patterns, categorized into:
+
+- 🧱 <b>Creational Patterns:</b> Singleton, Factory, Abstract Factory, Builder, Prototype  
+- 🧩 <b>Structural Patterns:</b> Adapter, Decorator, Facade, Composite, Proxy  
+- ⚙️ <b>Behavioral Patterns:</b> Strategy, Observer, Command, State, Chain of Responsibility, Template Method  
+
+Each pattern includes:
+- Clear concept explanation  
+- UML/class structure (where applicable)  
+- Working Java example  
+- Real-world analogy  
+
+---
+
+## 🧩 Key Highlights
+
+- 📘 **Comprehensive Notes:** Explains every pattern with theory + practical insight  
+- 💻 **Code Implementations:** Java-based examples following OOP best practices  
+- 🧠 **Interview-Focused:** Covers top patterns frequently asked in interviews  
+- 🧩 **Well-Organized:** Separate folders for notes and implementations  
+- 🚀 **Reusable Learning Resource:** Perfect for LLD revision and quick recall  
+
+---
+
+## 📂 Folder Structure
+
+```plaintext
+System-Design-LLD-/
+├── AllDesignPatternNotes/
+│   ├── Creational/
+│   ├── Structural/
+│   └── Behavioral/
+├── AllDesignPatternCode/
+│   ├── Singleton/
+│   ├── Factory/
+│   ├── Builder/
+│   └── etc...
+└── README.md
+
+
 ## 🧭 Folder Structure
 
 ```plaintext
