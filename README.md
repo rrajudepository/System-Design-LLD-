@@ -64,7 +64,39 @@ Key highlights:
 - 📝 **Developers** learning **OOP principles** & **clean architecture** in Java  
 - 🚀 Anyone wanting to build **scalable, object-oriented applications** from scratch
 
+🎨 Design Patterns – Java Notes & Code
 
+A structured collection of Design Pattern notes and implementations written in Java, focusing on real-world applications and interview-level clarity.
+This section is designed to help you understand, visualize, and apply design patterns effectively in your Low-Level Design (LLD) and System Design journey.
+
+🧩 What’s Inside
+
+Comprehensive Notes: Clear explanations with use cases and UML diagrams.
+
+Code Implementations: Working Java examples for each pattern.
+
+Categorized Learning: Patterns grouped into Creational, Structural, and Behavioral types.
+
+Interview Focused: Covers the most commonly asked patterns in top tech interviews.
+
+📘 Covered Pattern Categories
+
+Creational Patterns: Singleton, Factory, Abstract Factory, Builder, Prototype
+
+Structural Patterns: Adapter, Decorator, Facade, Composite, Proxy
+
+Behavioral Patterns: Strategy, Observer, Command, State, Chain of Responsibility, Template Method
+
+🧠 Why This Section
+
+Design patterns are the building blocks of clean, scalable, and maintainable software.
+These notes and implementations help in:
+
+Strengthening your object-oriented design (OOD) skills
+
+Writing modular and flexible code
+
+Preparing for SDE & LLD interviews with confidence
 
 ## 🧭 Folder Structure
 
